@@ -14,12 +14,12 @@
     },
     "autoload": {
         "psr-4": {
-            "muath-ic\\ArtisanAlais\\": "src"
+            "muath-ic\\ArtisanAlias\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "muath-ic\\ArtisanAlais\\Tests\\": "tests"
+            "muath-ic\\ArtisanAlias\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "muath-ic\\ArtisanAlais\\ArtisanCommandAliasServiceProvider"
+                "muath-ic\\ArtisanAlias\\ArtisanCommandAliasServiceProvider"
             ]
         }
     }

@@ -1,11 +1,11 @@
 <?php
-namespace muath-ic\ArtisanAlais\Tests;
+namespace muath-ic\ArtisanAlias\Tests;
 
-use muath-ic\ArtisanAlais\Console\GenericCommandAlias;
+use muath-ic\ArtisanAlias\Console\GenericCommandAlias;
 use Illuminate\Console\Command;
 use Illuminate\Contracts\Console\Kernel as Artisan;
 
-class ArtisanAlaisTest extends TestCase {
+class ArtisanAliasTest extends TestCase {
 	/**
 	 * @override
 	 * @return void

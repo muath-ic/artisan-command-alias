@@ -9,9 +9,9 @@
  * @license  MIT https://opensource.org/licenses/MIT
  * @link     ArtisanCommandAlias https://www.mokasweets.com/
  */
-namespace muath-ic\ArtisanAlais;
+namespace muath-ic\ArtisanAlias;
 
-use muath-ic\ArtisanAlais\Console\GenericCommandAlias;
+use muath-ic\ArtisanAlias\Console\GenericCommandAlias;
 use Illuminate\Support\ServiceProvider;
 
 /**

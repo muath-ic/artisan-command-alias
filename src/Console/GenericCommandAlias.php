@@ -1,5 +1,5 @@
 <?php
-namespace muath-ic\ArtisanAlais\Console;
+namespace muath-ic\ArtisanAlias\Console;
 
 use Illuminate\Console\Command;
 

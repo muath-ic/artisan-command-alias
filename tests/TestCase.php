@@ -1,7 +1,7 @@
 <?php
 namespace muath-ic\CommandAlias\Tests;
 
-use muath-ic\ArtisanAlais\ArtisanCommandAliasServiceProvider;
+use muath-ic\ArtisanAlias\ArtisanCommandAliasServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra {
